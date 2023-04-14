@@ -1,0 +1,103 @@
+img {max-width: 300px; width:auto; height:auto; max-height: 140px}
+   
+<div class="chat-cmrc">
+    <img src="https://www.vendure.io/logo.png" /><br><b>Website:</b><a href="https://www.vendure.io/">https://www.vendure.io/</a><br />
+    <b>Pricing:</b>Vendure offers a free Community Edition and a paid Enterprise Edition. The Enterprise Edition pricing is available upon request.<br />
+    <b>Free version:</b>Vendure offers a free Community Edition and a paid Enterprise Edition. The Enterprise Edition pricing is available upon request.<br />
+    <b>Ratings:</b> Vendure does not have a clear average rating on popular review websites. However, it has a high number of Github stars and forks, indicating its popularity among developers.<br />
+    <b>Framework/integrations:</b>Angular, Next.js, and React: Vendure is built with NestJS, a framework that can be used with Angular, Next.js, and React.
+</div>
+<div class="chat-cmrc">
+    <img src="https://saleor.io/static/logo-ad1b99aa7c6f5acf58a61640af760cfd.svg" /><br><b>Website:</b><a href="https://saleor.io/">https://saleor.io/</a><br />
+    <b>Pricing:</b>Saleor offers a free Community Edition and a paid Enterprise Edition. The Enterprise Edition pricing is available upon request.<br />
+    <b>Free version:</b>Saleor offers a free Community Edition and a paid Enterprise Edition. The Enterprise Edition pricing is available upon request.<br />
+    <b>Ratings:</b> Saleor has a high rating on popular review websites, with an average rating of 4.7 out of 5 on G2 and 4.5 out of 5 on Capterra.<br />
+    <b>Framework/integrations:</b>Angular, Next.js, and React: Saleor's frontend is built with React, but it can be integrated with any frontend technology.
+</div>
+<div class="chat-cmrc">
+    <img src="https://spreecommerce.org/wp-content/uploads/2019/02/spree-logo@2x.png" /><br><b>Website:</b><a href="https://spreecommerce.org/">https://spreecommerce.org/</a><br />
+    <b>Pricing:</b>Spree offers a free Community Edition and a paid Enterprise Edition. The Enterprise Edition pricing is available upon request.<br />
+    <b>Free version:</b>Spree offers a free Community Edition and a paid Enterprise Edition. The Enterprise Edition pricing is available upon request.<br />
+    <b>Ratings:</b> Spree has a high rating on popular review websites, with an average rating of 4.3 out of 5 on G2 and 4.2 out of 5 on Capterra.<br />
+    <b>Framework/integrations:</b>Angular, Next.js, and React: Spree can be integrated with any frontend technology.
+</div>
+<div class="chat-cmrc">
+    <img src="https://kibocommerce.com/wp-content/uploads/2022/12/logo-kibo-ForDarkBG.svg" /><br><b>Website:</b><a href="https://kibocommerce.com/">https://kibocommerce.com/</a><br />
+    <b>Pricing:</b>Kibo Commerce does not provide clear pricing information on their website, and it appears to offer customized pricing plans based on the specific needs of each client.<br />
+    <b>Free version:</b>Kibo Commerce does not provide clear pricing information on their website, and it appears to offer customized pricing plans based on the specific needs of each client.<br />
+    <b>Ratings:</b> Kibo Commerce has mixed reviews on popular review websites, with an average rating of 3.4 out of 5 on G2 and 2.5 out of 5 on Capterra.<br />
+    <b>Framework/integrations:</b>Angular, Next.js, and React: No information available.
+</div>
+<div class="chat-cmrc">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopify_logo_2018.svg" /><br><b>Website:</b><a href="https://www.shopify.com/">https://www.shopify.com/</a><br />
+    <b>Pricing:</b>s:Basic Shopify: $29/monthShopify: $79/monthAdvanced Shopify: $299/monthShopify Plus: Custom pricing<br />
+    <b>Free version:</b>s:Basic Shopify: $29/monthShopify: $79/monthAdvanced Shopify: $299/monthShopify Plus: Custom pricing<br />
+    <b>Ratings:</b> * G2: 4.3/5 * Trustpilot: 4.4/5 * Capterra: 4.6/5<br />
+    <b>Framework/integrations:</b> - Angular: No specific integration mentioned on their website, but they offer APIs that can be used with Angular - Next.js: No specific integration mentioned on their website, but they offer APIs that
+    can be used with Next.js. - React: Shopify provides a React-based framework called Polaris that can be used to build Shopify apps.
+</div>
+<div class="chat-cmrc">
+    <img src="https://images.ctfassets.net/lpjm8d10rkpy/gWs70zUSo9TJe8gJe8O4Y/d6a964ce11be0777fa14b58dff603e59/swell_gradient_wo_borders.svg" /><br><b>Website:</b><a href="https://swell.is/">https://swell.is/</a><br />
+    <b>Pricing:</b>s:Swell Core: $500/monthSwell Plus: Custom pricing<br />
+    <b>Free version:</b>s:Swell Core: $500/monthSwell Plus: Custom pricing<br />
+    <b>Ratings:</b> * G2: 4.6/5 * Trustpilot: 4.4/5<br />
+    <b>Framework/integrations:</b> - Angular: No specific integration mentioned on their website, but they offer APIs that can be used with Angular - Next.js: No specific integration mentioned on their website, but they offer APIs that
+    can be used with Next.js. - React: Swell provides a React SDK that can be used to build custom storefronts.
+</div>
+<div class="chat-cmrc">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_O9k5ta7Rt-MePpwiaPa172aVND1O7GEncA&usqp=CAU" /><br><b>Website:</b><a href="https://www.bigcommerce.com/">https://www.bigcommerce.com/</a><br />
+    <b>Pricing:</b>s:Standard: $29.95/monthPlus: $79.95/monthPro: $299.95/monthEnterprise: Custom pricing<br />
+    <b>Free version:</b>s:Standard: $29.95/monthPlus: $79.95/monthPro: $299.95/monthEnterprise: Custom pricing<br />
+    <b>Ratings:</b> * G2: 4.3/5 * Trustpilot: 4.5/5 * Capterra: 4.5/5<br />
+    <b>Framework/integrations:</b> - Angular: No specific integration mentioned on their website, but they offer APIs that can be used with Angular - Next.js: No specific integration mentioned on their website, but they offer APIs that
+    can be used with Next.js. - React: BigCommerce provides a React-based framework called Stencil that can be used to build custom storefronts.
+</div>
+<div class="chat-cmrc">
+    <img src="" /><br><b>Website:</b><a href="https://www.shopify.com/">https://www.shopify.com/</a><br />
+    <b>Pricing:</b>asic Shopify: $29/monthShopify: $79/monthAdvanced Shopify: $299/month<br />
+    <b>Free version:</b>asic Shopify: $29/monthShopify: $79/monthAdvanced Shopify: $299/month<br />
+    <b>Ratings:</b> 4.6/5<br />
+    <b>Framework/integrations:</b>Angular: Yes Next.js: Yes React: Yes
+</div>
+<div class="chat-cmrc">
+    <img src="" /><br><b>Website:</b><a href="https://swell.is/">https://swell.is/</a><br />
+    <b>Pricing:</b>Custom pricing based on business needs.<br />
+    <b>Free version:</b>Custom pricing based on business needs.<br />
+    <b>Ratings:</b> Not available.<br />
+    <b>Framework/integrations:</b>Angular: No Next.js: No React: Yes
+</div>
+<div class="chat-cmrc">
+    <img src="" /><br><b>Website:</b><a href="https://www.bigcommerce.com/">https://www.bigcommerce.com/</a><br />
+    <b>Pricing:</b>tandard: $29.95/monthPlus: $79.95/monthPro: $299.95/month<br />
+    <b>Free version:</b>tandard: $29.95/monthPlus: $79.95/monthPro: $299.95/month<br />
+    <b>Ratings:</b> 4.3/5<br />
+    <b>Framework/integrations:</b>Angular: Yes Next.js: Yes React: Yes
+</div>
+<div class="chat-cmrc">
+    <img src="https://www.vendure.io/logo.png" /><br><b>Website:</b><a href="https://www.vendure.io/">https://www.vendure.io/</a><br />
+    <b>Pricing:</b>ommunity: FreeEnterprise: Custom pricing based on business needs.<br />
+    <b>Free version:</b>ommunity: FreeEnterprise: Custom pricing based on business needs.<br />
+    <b>Ratings:</b> Not available.<br />
+    <b>Framework/integrations:</b>Angular: Yes Next.js: Yes React: Yes
+</div>
+<div class="chat-cmrc">
+    <img src="" /><br><b>Website:</b><a href="https://saleor.io/">https://saleor.io/</a><br />
+    <b>Pricing:</b>pen-source: FreeSaleor Cloud: Custom pricing based on business needs.<br />
+    <b>Free version:</b>pen-source: FreeSaleor Cloud: Custom pricing based on business needs.<br />
+    <b>Ratings:</b> 4.5/5<br />
+    <b>Framework/integrations:</b>Angular: No Next.js: Yes React: Yes
+</div>
+<div class="chat-cmrc">
+    <img src="https://mss-p-006-delivery.stylelabs.cloud/api/public/content/4fc742feffd14e7686e4820e55dbfbaa" /><br><b>Website:</b><a href="https://www.ordercloud.io/">https://www.ordercloud.io/</a><br />
+    <b>Pricing:</b>Custom pricing based on business needs.<br />
+    <b>Free version:</b>Custom pricing based on business needs.<br />
+    <b>Ratings:</b> Not available.<br />
+    <b>Framework/integrations:</b>Angular: Yes Next.js: Yes React: Yes
+</div>
+<div class="chat-cmrc">
+    <img src="" /><br><b>Website:</b><a href="https://spreecommerce.org/">https://spreecommerce.org/</a><br />
+    <b>Pricing:</b>Open-source and free.<br />
+    <b>Free version:</b>Open-source and free.<br />
+    <b>Ratings:</b> 4.4/5<br />
+    <b>Framework/integrations:</b>Angular: No Next.js: Yes React: Yes
+</div>
