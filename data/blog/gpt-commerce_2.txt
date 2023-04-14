@@ -1,0 +1,48 @@
+span{font-size:24px;text-variant:bold;font-weight:500;margin-right:5px}
+span:after{content:url('private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Gallery/assets_collect/icons_assets/rect-rounded.svg');width:40px;height:40px;color:#2f2f2f;font-size:36px}
+.positive:before{content:'ṩ';color:green;}
+.negative:before{content:'ṩ';color:red;}
+
+-----
+
+
+<span class="negative"></span><b>Shopify: </b> Offers a free trial for 14 days, but after that, users need to pay for one of the available plans.
+<br />
+<span class="negative"></span><b>Swell: </b> Offers a free trial for 14 days, but after that, users need to pay for one of the available plans.
+<br />
+<span class="positive"></span><b>BigCommerce: </b> Offfers a free version that includes basic features and allows users to sell up to $50k per year. However, users may need to pay for add-ons and some advanced features.
+<br />
+<span class="positive"></span><b>Vendure: </b> Vendure is an open-source e-commerce platform that is completely free to use.
+<br />
+<span class="positive"></span><b>Saleor: </b> Saleor is an open-source e-commerce platform that is completely free to use.
+<br />
+<span class="negative"></span><b>Ordercloud: </b> It does not offer a free version. Users need to contact sales to get a pricing plan based on their needs.
+<br />
+<span class="positive"></span><b>Spree: </b> Spree is an open-source e-commerce platform that is completely free to use.
+<br />
+<span class="negative"></span><b>Kibo Commerce: </b> Does not offer a free version. Users need to contact sales to get a pricing plan based on their needs.
+<br />
+<span class="negative"></span><b>Commerce.js: </b> Offers a free version, but it only includes basic features and supports a limited number of transactions. Users need to pay for one of the available plans to access advanced features and support for more transactions.
+<br />
+<span class="negative"></span><b>SalesForce: </b> Offers a free trial for 30 days, but after that, users need to pay for one of the available plans.
+
+-----
+
+Shopify: Negative. Shopify offers a free trial for 14 days, but after that, users need to pay for one of the available plans.
+
+Swell: Negative. Swell offers a free trial for 14 days, but after that, users need to pay for one of the available plans.
+
+BigCommerce: Positive. BigCommerce offers a free version that includes basic features and allows users to sell up to $50k per year. However, users may need to pay for add-ons and some advanced features.
+
+Vendure: Positive. Vendure is an open-source e-commerce platform that is completely free to use.
+
+Saleor: Positive. Saleor is an open-source e-commerce platform that is completely free to use.
+
+Ordercloud: Negative. Ordercloud does not offer a free version. Users need to contact sales to get a pricing plan based on their needs.
+Spree: Positive. Spree is an open-source e-commerce platform that is completely free to use.
+
+Kibo Commerce: Negative. Kibo Commerce does not offer a free version. Users need to contact sales to get a pricing plan based on their needs.
+
+Commerce.js: Negative. Commerce.js offers a free version, but it only includes basic features and supports a limited number of transactions. Users need to pay for one of the available plans to access advanced features and support for more transactions.
+
+SalesForce: Negative. SalesForce offers a free trial for 30 days, but after that, users need to pay for one of the available plans.
