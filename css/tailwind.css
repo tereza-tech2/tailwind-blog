@@ -23,3 +23,10 @@ input:-webkit-autofill,
 input:-webkit-autofill:focus {
   transition: background-color 600000s 0s, color 600000s 0s;
 }
+
+img[alt='image:commerce-services'] {
+  max-width: 155px;
+  width: auto;
+  height: auto;
+  max-height: 75px;
+}
